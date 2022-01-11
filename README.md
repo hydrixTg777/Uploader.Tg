@@ -16,7 +16,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 #### The Hard Way
 
 ```sh
-virtualenv -p python3 VENV
+virtualenv -p python3 VENVv
 . ./VENV/bin/activate
 pip install -r requirements.txt
 cp sample_config.py config.py
